@@ -1,0 +1,2 @@
+# BI AND TOOLS EXTERNAL PRACTICAL MST 
+External mst
